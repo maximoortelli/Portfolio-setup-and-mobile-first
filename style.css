@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background-color: #f7f7f9;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  background-color: #fff;
+  display: flex;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  min-height: 8vh;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #6070ff;
+  font-size: 2rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: auto;
+  margin-left: 1.5rem;
+  padding: 1rem;
+}
+
+.menu {
+  cursor: pointer;
+  justify-content: flex-start;
+  padding-right: 0;
+}
+
+nav {
+  font-weight: 700;
+  justify-content: space-between;
+  align-items: center;
+  color: #6070ff;
+  font-size: small;
+}
+
+.intro {
+  height: 100vh;
+  background-image: url("images/header-shapes\ mobile@2x.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 0.032vw;
+  background-color: #fff;
+  border-bottom-left-radius: 21.3vw;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 10.6vw;
+  color: #172b4d;
+  padding-top: 38vw;
+  padding-bottom: 10px;
+  margin: 0;
+  line-height: 12.85vw;
+}
+
+section.intro p {
+  margin-top: 3.2vw;
+  font-size: 4.26vw;
+  color: #344563;
+}
+
+.lets-connect {
+  column-gap: 5vw;
+}
+
+div.lets-connect h3 {
+  color: #7f8cff;
+  font-weight: 500;
+  font-size: 4.26vw;
+  margin-top: 3.2vw;
+  margin-bottom: 3.2vw;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.social-icons {
+  margin-top: 0;
+  margin-bottom: 0;
+  justify-content: flex-start;
+  align-items: end;
+  gap: 5vw;
+}
+
+.social-icon:hover {
+  opacity: 0.8;
+}
+
+.flex-row {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.margin {
+  margin-left: 6.4vw;
+  margin-right: 6.4vw;
+}
