@@ -94,6 +94,17 @@ h1 {
   line-height: 12.85vw;
 }
 
+.contact-form p {
+  color: #ebebff;
+  font-size: 5.3vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 7.467vw;
+  text-align: center;
+  margin-top: 3.2vw;
+  margin-bottom: 13.86vw;
+}
+
 section.intro p {
   margin-top: 3.2vw;
   font-size: 4.26vw;
@@ -400,17 +411,6 @@ button:disabled {
   background-color: #fff;
 }
 
-.contact-form p {
-  color: #ebebff;
-  font-size: 5.3vw;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 7.467vw;
-  text-align: center;
-  margin-top: 3.2vw;
-  margin-bottom: 13.86vw;
-}
-
 .blue-border {
   border-top-left-radius: 21.3vw;
   background-repeat: no-repeat;
@@ -426,6 +426,14 @@ button:disabled {
   color: #fff;
   font-size: 10.6vw;
   margin-top: 27.467vw;
+}
+
+input {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172b4d;
 }
 
 .contact-form input {
@@ -458,24 +466,6 @@ button:disabled {
   border-radius: 2.667vw;
 }
 
-.flex-row {
-  display: flex;
-}
-
-.flex-column {
-  display: flex;
-  flex-direction: column;
-}
-
 textarea:focus::placeholder {
   color: transparent;
-}
-
-input {
-  font-family: 'Poppins';
-  font-style: normal; 
-  font-weight: 400;
-  font-size: 17px;
-  line-height: 20px;
-  color: #172B4D;
 }
