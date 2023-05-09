@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio: finish mobile version</b></h3>
+  <h3><b>Portfolio: contact form and mobile version</b></h3>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 # 📖 Portfolio: finish mobile version <a name="about-project"></a>
 
-Portfolio: finish mobile version is an exercise where I will create my first portfolio. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
+Portfolio: contact form and mobile version is an exercise where i will add a new Contact section to the portfolio. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
 
 ## 🛠 Built With <a name="built-with"></a>
 
