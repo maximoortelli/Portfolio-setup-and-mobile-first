@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio: finish mobile version <a name="about-project"></a>
+# 📖 Portfolio: contact form and mobile version <a name="about-project"></a>
 
 Portfolio: contact form and mobile version is an exercise where i will add a new Contact section to the portfolio. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
 
