@@ -113,6 +113,9 @@ The project can be deployed to a hosting service.
 
 - GitHub: [@maximoortelli](https://github.com/maximoortelli)
 
+👤 **Ricardo Martínez.**
+
+- GitHub: [@boaz](https://github.com/bohaz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
