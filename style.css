@@ -94,6 +94,17 @@ h1 {
   line-height: 12.85vw;
 }
 
+.contact-form p {
+  color: #ebebff;
+  font-size: 5.3vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 7.467vw;
+  text-align: center;
+  margin-top: 3.2vw;
+  margin-bottom: 13.86vw;
+}
+
 section.intro p {
   margin-top: 3.2vw;
   font-size: 4.26vw;
@@ -318,7 +329,6 @@ img.next {
   line-height: 24px;
   margin-top: 17px;
   margin-left: 11px;
-  margin-bottom: 17px;
   height: 28px;
   left: 12px;
   right: 78px;
@@ -395,4 +405,67 @@ button:disabled {
   background-color: transparent;
   color: #5e6c84;
   border-color: #c1c7d0;
+}
+
+.contact-form {
+  background-color: #fff;
+}
+
+.blue-border {
+  border-top-left-radius: 21.3vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right 6.4vw;
+  align-items: center;
+  background-color: #6070ff;
+  background-image: url(images/contact\ form\ shapes-mobile@2x.png);
+  margin-top: 100px;
+}
+
+.contact-form h2 {
+  color: #fff;
+  font-size: 10.6vw;
+  margin-top: 27.467vw;
+}
+
+input {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172b4d;
+}
+
+.contact-form input {
+  width: 87.2vw;
+  height: 12.8vw;
+  background: #fff;
+  border: 0.267vw solid #cfd8dc;
+  border-radius: 2.13vw;
+  font-size: 4.53vw;
+  margin-bottom: 5.3vw;
+}
+
+.contact-form textarea {
+  width: 87.2vw;
+  height: 45.3vw;
+  border: 0.267vw solid #cfd8dc;
+  border-radius: 2.13vw;
+  font-size: 4vw;
+  margin-bottom: 5.867vw;
+}
+
+.contact-form button {
+  background-color: #fff;
+  margin-bottom: 11.73vw;
+}
+
+.contact-form hr {
+  width: 35.73vw;
+  border: 1.3vw solid #0d151e;
+  border-radius: 2.667vw;
+}
+
+textarea:focus::placeholder {
+  color: transparent;
 }
