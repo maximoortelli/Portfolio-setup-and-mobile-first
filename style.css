@@ -468,6 +468,8 @@ textarea:focus::placeholder {
 
   .social-icons {
     gap: 1.389vw;
+    margin-left: 5px;
+    margin-top: 20px;
   }
 
   .intro .lets-connect {
@@ -475,7 +477,7 @@ textarea:focus::placeholder {
   }
 
   .works {
-    margin: 9.861vw;
+    margin: 6.861vw;
   }
 
   .card {
@@ -563,6 +565,9 @@ textarea:focus::placeholder {
     font-size: 1.25vw;
   }
 
+  .size {
+    margin-bottom: 300px;
+  }
   .card-description {
     font-style: normal;
     font-weight: 400;
@@ -580,8 +585,31 @@ textarea:focus::placeholder {
   .about-myself {
     display: flex;
     flex-direction: row;
+    margin-top: -300px;
     padding-bottom: 11.528vw;
     border-top-right-radius: 10vw;
+  }
+
+  #leng {
+    margin-top: 70px;
+  }
+
+  .next2 {
+    width: 1.5vw;
+    height: 1.5vw;
+    margin-top: 140px;
+    margin-right: 2vw;
+  }
+
+  #frameworks {
+    margin-top: -140px;
+  }
+
+  #next3 {
+    width: 1.5vw;
+    height: 1.5vw;
+    margin-top: -120px;
+    margin-right: 2vw;
   }
 
   .about-myself-bio-connect {
@@ -638,6 +666,7 @@ textarea:focus::placeholder {
   .languages-container {
     display: flex;
     flex-direction: row;
+    margin-top: -30px;
   }
 
   li.languages {
