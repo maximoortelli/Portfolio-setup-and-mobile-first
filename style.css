@@ -566,7 +566,7 @@ textarea:focus::placeholder {
   }
 
   .size {
-    margin-bottom: 300px;
+    margin-bottom: 90px;
   }
 
   .card-description {
@@ -586,30 +586,30 @@ textarea:focus::placeholder {
   .about-myself {
     display: flex;
     flex-direction: row;
-    margin-top: -300px;
     padding-bottom: 11.528vw;
     border-top-right-radius: 10vw;
+    margin-top: -70px;
   }
 
   #leng {
-    margin-top: 70px;
+    margin-top: 12px;
   }
 
   .next2 {
     width: 1.5vw;
     height: 1.5vw;
-    margin-top: 140px;
+    margin-top: 36px;
     margin-right: 2vw;
   }
 
   #frameworks {
-    margin-top: -140px;
+    margin-top: -30px;
   }
 
   #next3 {
     width: 1.5vw;
     height: 1.5vw;
-    margin-top: -120px;
+    margin-top: -30px;
     margin-right: 2vw;
   }
 
@@ -667,8 +667,10 @@ textarea:focus::placeholder {
   .languages-container {
     display: flex;
     flex-direction: row;
-    margin-top: -30px;
-    border-radius: 10px;
+    margin-top: -10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 8px;
   }
 
   li.languages {
@@ -746,5 +748,9 @@ textarea:focus::placeholder {
 
   .contact-form div button {
     width: 9.861vw;
+  }
+
+  #boton {
+   margin-left: 130px;
   }
 }
