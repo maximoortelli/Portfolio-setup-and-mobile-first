@@ -668,6 +668,7 @@ textarea:focus::placeholder {
     display: flex;
     flex-direction: row;
     margin-top: -30px;
+    border-radius: 10px;
   }
 
   li.languages {
