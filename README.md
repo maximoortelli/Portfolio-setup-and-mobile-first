@@ -67,7 +67,7 @@ Portfolio: application deploy is an exercise where i will do a deploy version to
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-### URL: ``` https://maximoortelli.github.io/Portfolio-setup-and-mobile-first/ ```
+### URL: https://maximoortelli.github.io/Portfolio-setup-and-mobile-first/ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
