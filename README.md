@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio-desktop-version</b></h3>
+  <h3><b>Portfolio-application-deploy</b></h3>
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio-desktop-version <a name="about-project"></a>
+# 📖 Portfolio-application-deploy <a name="about-project"></a>
 
-Portfolio-desktop-version is an exercise where i will add a new desktop version to the portfolio. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
+Portfolio: application deploy is an exercise where i will do a deploy version to the portfolio. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
 
 ## 🛠 Built With <a name="built-with"></a>
 
